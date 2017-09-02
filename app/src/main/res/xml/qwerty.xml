@@ -1,0 +1,60 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="65dp"
+    >
+    <Row>
+        <Key android:codes="-105" android:keyOutputText="й" android:keyLabel="й" android:keyEdgeFlags="left"/>
+        <Key android:codes="-105" android:keyOutputText="ц" android:keyLabel="ц"/>
+        <Key android:codes="-105" android:keyOutputText="у" android:keyLabel="у"/>
+        <Key android:codes="-105" android:keyOutputText="к" android:keyLabel="к"/>
+        <Key android:codes="-105" android:keyOutputText="е" android:keyLabel="е"/>
+        <Key android:codes="-105" android:keyOutputText="н" android:keyLabel="н"/>
+        <Key android:codes="-105" android:keyOutputText="г" android:keyLabel="г"/>
+        <Key android:codes="-105" android:keyOutputText="ш" android:keyLabel="ш"/>
+        <Key android:codes="-105" android:keyOutputText="щ" android:keyLabel="щ"/>
+        <Key android:codes="-105" android:keyOutputText="з" android:keyLabel="з"/>
+        <Key android:codes="-105" android:keyOutputText="х" android:keyLabel="х"/>
+        <Key android:codes="-105" android:keyOutputText="ъ" android:keyLabel="ъ" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="-105" android:keyOutputText="ф" android:keyLabel="ф" android:keyEdgeFlags="left"/>
+        <Key android:codes="-105" android:keyOutputText="ы" android:keyLabel="ы"/>
+        <Key android:codes="-105" android:keyOutputText="в" android:keyLabel="в"/>
+        <Key android:codes="-105" android:keyOutputText="а" android:keyLabel="а"/>
+        <Key android:codes="-105" android:keyOutputText="п" android:keyLabel="п"/>
+        <Key android:codes="-105" android:keyOutputText="р" android:keyLabel="р"/>
+        <Key android:codes="-105" android:keyOutputText="о" android:keyLabel="о"/>
+        <Key android:codes="-105" android:keyOutputText="л" android:keyLabel="л"/>
+        <Key android:codes="-105" android:keyOutputText="д" android:keyLabel="д"/>
+        <Key android:codes="-105" android:keyOutputText="ж" android:keyLabel="ж"/>
+        <Key android:codes="-105" android:keyOutputText="э" android:keyLabel="э" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="-105" android:keyOutputText="я" android:keyLabel="я" android:keyEdgeFlags="left"/>
+        <Key android:codes="-105" android:keyOutputText="ч" android:keyLabel="ч"/>
+        <Key android:codes="-105" android:keyOutputText="с" android:keyLabel="с"/>
+        <Key android:codes="-105" android:keyOutputText="м" android:keyLabel="м"/>
+        <Key android:codes="-105" android:keyOutputText="и" android:keyLabel="и"/>
+        <Key android:codes="-105" android:keyOutputText="т" android:keyLabel="т"/>
+        <Key android:codes="-105" android:keyOutputText="ь" android:keyLabel="ь"/>
+        <Key android:codes="-105" android:keyOutputText="б" android:keyLabel="б"/>
+        <Key android:codes="-105" android:keyOutputText="ю" android:keyLabel="ю" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="-105" android:keyOutputText="ҙ" android:keyLabel="ҙ" android:keyEdgeFlags="left"/>
+        <Key android:codes="-105" android:keyOutputText="ӷ" android:keyLabel="ӷ"/>
+        <Key android:codes="-105" android:keyOutputText="ӄ" android:keyLabel="ӄ"/>
+        <Key android:codes="-105" android:keyOutputText="ӈ" android:keyLabel="ӈ"/>
+        <Key android:codes="-105" android:keyOutputText="җ" android:keyLabel="җ"/>
+        <Key android:codes="-105" android:keyOutputText="ҳ" android:keyLabel="ҳ"/>
+        <Key android:codes="-105" android:keyOutputText="ҷ" android:keyLabel="ҷ" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="-1" android:keyLabel="CAPS" android:keyEdgeFlags="left"/>
+        <Key android:codes="-105" android:keyOutputText="̄" android:keyWidth="25%p" android:keyLabel="MAKR"/>
+        <Key android:codes="-105" android:keyOutputText="́" android:keyWidth="25%p" android:keyLabel="ACUT"/>
+        <Key android:codes="-105" android:keyOutputText="̈" android:keyWidth="25%p" android:keyLabel="UML" android:keyEdgeFlags="right"/>
+    </Row>
+</Keyboard>
