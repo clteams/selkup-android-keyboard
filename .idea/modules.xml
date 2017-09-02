@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Selkupkeyboard.iml" filepath="$PROJECT_DIR$/Selkupkeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selkup-android-keyboard.iml" filepath="$PROJECT_DIR$/selkup-android-keyboard.iml" />
     </modules>
   </component>
 </project>

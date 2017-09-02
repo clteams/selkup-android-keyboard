@@ -3,58 +3,58 @@
     android:horizontalGap="0px"
     android:verticalGap="0px"
     android:keyHeight="65dp"
-    >
+>
     <Row>
-        <Key android:codes="-105" android:keyOutputText="й" android:keyLabel="й" android:keyEdgeFlags="left"/>
-        <Key android:codes="-105" android:keyOutputText="ц" android:keyLabel="ц"/>
-        <Key android:codes="-105" android:keyOutputText="у" android:keyLabel="у"/>
-        <Key android:codes="-105" android:keyOutputText="к" android:keyLabel="к"/>
-        <Key android:codes="-105" android:keyOutputText="е" android:keyLabel="е"/>
-        <Key android:codes="-105" android:keyOutputText="н" android:keyLabel="н"/>
-        <Key android:codes="-105" android:keyOutputText="г" android:keyLabel="г"/>
-        <Key android:codes="-105" android:keyOutputText="ш" android:keyLabel="ш"/>
-        <Key android:codes="-105" android:keyOutputText="щ" android:keyLabel="щ"/>
-        <Key android:codes="-105" android:keyOutputText="з" android:keyLabel="з"/>
-        <Key android:codes="-105" android:keyOutputText="х" android:keyLabel="х"/>
-        <Key android:codes="-105" android:keyOutputText="ъ" android:keyLabel="ъ" android:keyEdgeFlags="right"/>
+        <Key android:codes="-800" android:keyOutputText="й" android:keyLabel="й" android:keyEdgeFlags="left"/>
+        <Key android:codes="-801" android:keyOutputText="ц" android:keyLabel="ц"/>
+        <Key android:codes="-802" android:keyOutputText="у" android:keyLabel="у"/>
+        <Key android:codes="-803" android:keyOutputText="к" android:keyLabel="к"/>
+        <Key android:codes="-804" android:keyOutputText="е" android:keyLabel="е"/>
+        <Key android:codes="-805" android:keyOutputText="н" android:keyLabel="н"/>
+        <Key android:codes="-806" android:keyOutputText="г" android:keyLabel="г"/>
+        <Key android:codes="-807" android:keyOutputText="ш" android:keyLabel="ш"/>
+        <Key android:codes="-808" android:keyOutputText="щ" android:keyLabel="щ"/>
+        <Key android:codes="-809" android:keyOutputText="з" android:keyLabel="з"/>
+        <Key android:codes="-810" android:keyOutputText="х" android:keyLabel="х"/>
+        <Key android:codes="-811" android:keyOutputText="ъ" android:keyLabel="ъ" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="-105" android:keyOutputText="ф" android:keyLabel="ф" android:keyEdgeFlags="left"/>
-        <Key android:codes="-105" android:keyOutputText="ы" android:keyLabel="ы"/>
-        <Key android:codes="-105" android:keyOutputText="в" android:keyLabel="в"/>
-        <Key android:codes="-105" android:keyOutputText="а" android:keyLabel="а"/>
-        <Key android:codes="-105" android:keyOutputText="п" android:keyLabel="п"/>
-        <Key android:codes="-105" android:keyOutputText="р" android:keyLabel="р"/>
-        <Key android:codes="-105" android:keyOutputText="о" android:keyLabel="о"/>
-        <Key android:codes="-105" android:keyOutputText="л" android:keyLabel="л"/>
-        <Key android:codes="-105" android:keyOutputText="д" android:keyLabel="д"/>
-        <Key android:codes="-105" android:keyOutputText="ж" android:keyLabel="ж"/>
-        <Key android:codes="-105" android:keyOutputText="э" android:keyLabel="э" android:keyEdgeFlags="right"/>
+        <Key android:codes="-812" android:keyOutputText="ф" android:keyLabel="ф" android:keyEdgeFlags="left"/>
+        <Key android:codes="-813" android:keyOutputText="ы" android:keyLabel="ы"/>
+        <Key android:codes="-814" android:keyOutputText="в" android:keyLabel="в"/>
+        <Key android:codes="-815" android:keyOutputText="а" android:keyLabel="а"/>
+        <Key android:codes="-816" android:keyOutputText="п" android:keyLabel="п"/>
+        <Key android:codes="-817" android:keyOutputText="р" android:keyLabel="р"/>
+        <Key android:codes="-818" android:keyOutputText="о" android:keyLabel="о"/>
+        <Key android:codes="-819" android:keyOutputText="л" android:keyLabel="л"/>
+        <Key android:codes="-820" android:keyOutputText="д" android:keyLabel="д"/>
+        <Key android:codes="-821" android:keyOutputText="ж" android:keyLabel="ж"/>
+        <Key android:codes="-822" android:keyOutputText="э" android:keyLabel="э" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="-105" android:keyOutputText="я" android:keyLabel="я" android:keyEdgeFlags="left"/>
-        <Key android:codes="-105" android:keyOutputText="ч" android:keyLabel="ч"/>
-        <Key android:codes="-105" android:keyOutputText="с" android:keyLabel="с"/>
-        <Key android:codes="-105" android:keyOutputText="м" android:keyLabel="м"/>
-        <Key android:codes="-105" android:keyOutputText="и" android:keyLabel="и"/>
-        <Key android:codes="-105" android:keyOutputText="т" android:keyLabel="т"/>
-        <Key android:codes="-105" android:keyOutputText="ь" android:keyLabel="ь"/>
-        <Key android:codes="-105" android:keyOutputText="б" android:keyLabel="б"/>
-        <Key android:codes="-105" android:keyOutputText="ю" android:keyLabel="ю" android:keyEdgeFlags="right"/>
+        <Key android:codes="-823" android:keyOutputText="я" android:keyLabel="я" android:keyEdgeFlags="left"/>
+        <Key android:codes="-824" android:keyOutputText="ч" android:keyLabel="ч"/>
+        <Key android:codes="-825" android:keyOutputText="с" android:keyLabel="с"/>
+        <Key android:codes="-826" android:keyOutputText="м" android:keyLabel="м"/>
+        <Key android:codes="-827" android:keyOutputText="и" android:keyLabel="и"/>
+        <Key android:codes="-828" android:keyOutputText="т" android:keyLabel="т"/>
+        <Key android:codes="-829" android:keyOutputText="ь" android:keyLabel="ь"/>
+        <Key android:codes="-830" android:keyOutputText="б" android:keyLabel="б"/>
+        <Key android:codes="-831" android:keyOutputText="ю" android:keyLabel="ю" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="-105" android:keyOutputText="ҙ" android:keyLabel="ҙ" android:keyEdgeFlags="left"/>
-        <Key android:codes="-105" android:keyOutputText="ӷ" android:keyLabel="ӷ"/>
-        <Key android:codes="-105" android:keyOutputText="ӄ" android:keyLabel="ӄ"/>
-        <Key android:codes="-105" android:keyOutputText="ӈ" android:keyLabel="ӈ"/>
-        <Key android:codes="-105" android:keyOutputText="җ" android:keyLabel="җ"/>
-        <Key android:codes="-105" android:keyOutputText="ҳ" android:keyLabel="ҳ"/>
-        <Key android:codes="-105" android:keyOutputText="ҷ" android:keyLabel="ҷ" android:keyEdgeFlags="right"/>
+        <Key android:codes="-832" android:keyOutputText="ҙ" android:keyLabel="ҙ" android:keyEdgeFlags="left"/>
+        <Key android:codes="-833" android:keyOutputText="ӷ" android:keyLabel="ӷ"/>
+        <Key android:codes="-834" android:keyOutputText="ӄ" android:keyLabel="ӄ"/>
+        <Key android:codes="-835" android:keyOutputText="ӈ" android:keyLabel="ӈ"/>
+        <Key android:codes="-836" android:keyOutputText="җ" android:keyLabel="җ"/>
+        <Key android:codes="-837" android:keyOutputText="ҳ" android:keyLabel="ҳ"/>
+        <Key android:codes="-838" android:keyOutputText="ҷ" android:keyLabel="ҷ" android:keyEdgeFlags="right"/>
     </Row>
     <Row android:rowEdgeFlags="bottom">
         <Key android:codes="-1" android:keyLabel="CAPS" android:keyEdgeFlags="left"/>
-        <Key android:codes="-105" android:keyOutputText="̄" android:keyWidth="25%p" android:keyLabel="MAKR"/>
-        <Key android:codes="-105" android:keyOutputText="́" android:keyWidth="25%p" android:keyLabel="ACUT"/>
-        <Key android:codes="-105" android:keyOutputText="̈" android:keyWidth="25%p" android:keyLabel="UML" android:keyEdgeFlags="right"/>
+        <Key android:codes="-839" android:keyOutputText="̄" android:keyWidth="25%p" android:keyLabel="MAKR"/>
+        <Key android:codes="-840" android:keyOutputText="́" android:keyWidth="25%p" android:keyLabel="ACUT"/>
+        <Key android:codes="-841" android:keyOutputText="̈" android:keyWidth="25%p" android:keyLabel="UML" android:keyEdgeFlags="right"/>
     </Row>
 </Keyboard>
