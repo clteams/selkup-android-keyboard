@@ -43,7 +43,8 @@
         <Key android:codes="69" android:keyLabel="л"/>
         <Key android:codes="70" android:keyLabel="д"/>
         <Key android:codes="71" android:keyLabel="ж"/>
-        <Key android:codes="72" android:keyLabel="э" android:keyEdgeFlags="right"/>
+        <Key android:codes="72" android:keyLabel="э"/>
+        <Key android:codes="109" android:keyLabel="-" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
         <Key android:codes="73" android:keyLabel="я" android:keyEdgeFlags="left"/>
@@ -72,7 +73,7 @@
     <Row android:rowEdgeFlags="bottom">
         <Key android:codes="-1" android:keyWidth="20%p" android:keyLabel="SHIFT" android:keyEdgeFlags="left"/>
         <Key android:codes="89" android:keyWidth="20%p" android:keyLabel="MAKR"/>
-        <Key android:codes="92" android:keyWidth="20%p" android:keyLabel="SPACE"/>
+        <Key android:codes="92" android:keyWidth="22%p" android:keyLabel="_______"/>
         <Key android:codes="90" android:keyWidth="20%p" android:keyLabel="ACUT"/>
         <Key android:codes="91" android:keyWidth="20%p" android:keyLabel="UML"/>
         <Key android:codes="108" android:keyWidth="20%p" android:keyLabel="DOT" android:keyEdgeFlags="right"/>

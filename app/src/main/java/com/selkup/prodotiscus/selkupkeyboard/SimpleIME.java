@@ -217,6 +217,9 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
             case 107:
                 ic.commitText("?",1);
                 break;
+            case 109:
+                ic.commitText("-",1);
+                break;
             case Keyboard.KEYCODE_SHIFT:
                 caps = true;
                 keyboard.setShifted(caps);
