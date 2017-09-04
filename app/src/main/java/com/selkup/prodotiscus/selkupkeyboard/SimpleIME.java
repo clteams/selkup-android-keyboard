@@ -33,12 +33,6 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
     public void onKey(int primaryCode, int[] keyCodes) {
         InputConnection ic = getCurrentInputConnection();
         playClick(primaryCode);
-        if (after_caps > 1) {
-            caps = false;
-            keyboard.setShifted(caps);
-            kv.invalidateAllKeys();
-            after_caps = 0;
-        }
         if (caps) {
             after_caps += 1;
         }
@@ -232,6 +226,12 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
             case Keyboard.KEYCODE_DONE:
                 ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
                 break;
+        }
+        if (after_caps > 1) {
+            caps = false;
+            keyboard.setShifted(caps);
+            kv.invalidateAllKeys();
+            after_caps = 0;
         }
     }
 
